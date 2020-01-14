@@ -80,8 +80,13 @@ _The variables required in order for the module to be successfully called from t
 
 |**_Variable_** | **_Description_** | **_Type_** | **_Argument Status_** |
 |:----|:----|-----:|-----:|
-| **_zone\_id_** | _The ID of the hosted zone_ | _string_ | **_Required_** |
-
+| **_name_** | _The ID of the hosted zone_ | _string_ | **_Required_** |
+| **_name_** | _The ID of the hosted zone_ | _string_ | **_Required_** |
+| **_name_** | _The ID of the hosted zone_ | _string_ | **_Required_** |
+| **_name_** | _The ID of the hosted zone_ | _string_ | **_Required_** |
+| **_name_** | _The ID of the hosted zone_ | _string_ | **_Required_** |
+| **_name_** | _The ID of the hosted zone_ | _string_ | **_Required_** |
+| **_name_** | _The ID of the hosted zone_ | _string_ | **_Required_** |
 
 
 
