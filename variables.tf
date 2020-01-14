@@ -4,7 +4,7 @@ variable "direction" {
 
 variable "ip_address" {
   description = "The subnets and IP addresses in your VPC"
-  type        = list(string)
+  type        = any
 }
 
 variable "security_group_ids" {
